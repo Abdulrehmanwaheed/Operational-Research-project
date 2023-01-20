@@ -1,3 +1,4 @@
+// This is the main page of the application
 import Head from 'next/head'
 import React, { useEffect, useState } from 'react';
 import BarGraph from './bar';
